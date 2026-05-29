@@ -1,0 +1,5 @@
+streamlit>=1.35.0
+spacy>=3.7.0
+spacy-textblob>=4.1.0
+psycopg2-binary>=2.9.0
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.7.0/pt_core_news_sm-3.7.0.tar.gz
